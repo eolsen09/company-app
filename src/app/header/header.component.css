@@ -1,0 +1,52 @@
+nav {
+  height: 20%;
+}
+
+.container {
+  border-bottom: 1px solid black;
+  padding-top: 10px;
+  background-color: white;
+  height: 8%;
+  width: 100%;
+  position: fixed;
+  display: flex;
+  top: 0;
+}
+
+.container ul {
+  margin: 0 2px;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  width:100%;
+}
+
+.container li {
+  list-style: none;
+  padding:10px;
+  font-family: 'Montserrat', sans-serif;
+  text-transform: capitalize;
+  font-weight: bold;
+  font-size: 14px;
+  text-align: center;
+}
+
+.logo_box {
+  background-color: #D4DFE5;
+  margin-top: 70px;
+  height: 100%;
+  width: 100%;
+}
+
+h1 {
+  font-family: 'Libre Franklin', sans-serif;
+  padding-top: 5px;
+  text-align: center;
+  font-size: 40px;
+}
+
+p {
+  font-family: 'Libre Baskerville', serif;
+  font-size: 20px;
+  text-align: center;
+}
